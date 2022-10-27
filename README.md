@@ -64,8 +64,5 @@
 </div>
 <h2 align="center">📑 My Information 📑</h2>
 <br>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="200" alt="trungquandev-official" />
-</a>
 
 # Speacial-Res
